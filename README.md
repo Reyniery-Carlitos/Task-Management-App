@@ -207,3 +207,6 @@ Levantar el servidor de vue en modo de desarrollo
 
 Levantar el servidor de laravel en modo desarrollo
 
+### `php artisan migrate:fresh --seed`
+
+Para eliminar y recrear las tablas y sus campos y ejecutar los seeders para rellenarlas con data predefinida
